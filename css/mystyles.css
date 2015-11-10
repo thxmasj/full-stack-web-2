@@ -84,3 +84,8 @@ address {
 #myScrollspy {
     padding-top: 40px;
 }
+
+.modal-content {
+    /*margin: 10px auto;*/
+    padding: 0px 10px 0px 10px;
+}
