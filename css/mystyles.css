@@ -89,3 +89,9 @@ address {
     /*margin: 10px auto;*/
     padding: 0px 10px 0px 10px;
 }
+
+#carouselButtons {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
